@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 95dea308-d23e-a3cb-f5dd-4ced8aa376fc
 ---

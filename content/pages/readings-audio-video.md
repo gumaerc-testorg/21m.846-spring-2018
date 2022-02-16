@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings, Audio, and Video
 uid: 4c77268c-9c42-43b7-fd5c-ddeb69daebb2
 ---
