@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: 95dea308-d23e-a3cb-f5dd-4ced8aa376fc
 ---
@@ -91,7 +94,7 @@ Portfolio
 
 {{< tableclose >}}
 
-For detailed information on the activities, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the activities, see the {{% resource_link 437eae9f-143e-d474-ba96-967eaf803357 "Assignments" %}} section.
 
 Calendar
 --------

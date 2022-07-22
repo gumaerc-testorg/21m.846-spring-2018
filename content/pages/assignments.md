@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 437eae9f-143e-d474-ba96-967eaf803357
 ---
