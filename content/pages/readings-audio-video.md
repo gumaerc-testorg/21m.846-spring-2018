@@ -156,7 +156,7 @@ Limon. John. “Inrage: A Lenny Bruce Joke and the Topography of Stand-Up.” Ch
 
 ———. “Scatology: Richard Pryor in Concert.” Chapter 5 in *Stand-up Comedy in Theory, or, Abjection*. Duke University Press Books, 2000. ISBN: 9780822325468.
 
-Double, Oliver. “{{% resource_link "a81442f2-7d44-41b3-9177-3692a98caf64" "\`\[T\]his is Eating your Greens, This is Doing your Homework´: Writing and Rehearsing a Full-length Stand-up Show" %}}.” *Comedy Studies* 8, no. 22 (2017) 137–53. (Skip the introduction, read pp. 140–51.)
+Double, Oliver. “{{% resource_link "a81442f2-7d44-41b3-9177-3692a98caf64" "[T]his is Eating your Greens, This is Doing your Homework: Writing and Rehearsing a Full-length Stand-up Show" %}}.” *Comedy Studies* 8, no. 22 (2017) 137–53. (Skip the introduction, read pp. 140–51.)
 
 *Video*
 
