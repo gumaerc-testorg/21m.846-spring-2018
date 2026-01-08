@@ -26,15 +26,15 @@ Stations of the Fool – Laughter in History
 
 *Readings*
 
-Plato. “The Basis of Comedy is Malice.” Chapter 1.1 in *Reader in Comedy: An Anthology of Theory & Criticism*. Edited by Magda Romanska and Alan Ackerman. Methuen Drama, 2016. ISBN: 9781474247887. \[Preview with {{% resource_link "00feb39c-cfc6-448a-8d31-696e496da86e" "Google Books" %}}\]
+Plato. “The Basis of Comedy is Malice.” Chapter 1.1 in *Reader in Comedy: An Anthology of Theory & Criticism*. Edited by Magda Romanska and Alan Ackerman. Methuen Drama, 2016. ISBN: 9781474247887. \[Preview with [Google Books](https://books.google.com/books?id=ySoCDQAAQBAJ&pg=PA33=onepage#v=onepage&q&f=false)\]
 
-Aristotle. “On the Origins and Function of Comedy.” Chapter 1.2 in *Reader in Comedy: An Anthology of Theory & Criticism*. Edited by Magda Romanska and Alan Ackerman. Methuen Drama, 2016. ISBN: 9781474247887. \[Preview with {{% resource_link "8b92e32f-57b5-4b57-a0ec-6a5ca37c825c" "Google Books" %}}\]
+Aristotle. “On the Origins and Function of Comedy.” Chapter 1.2 in *Reader in Comedy: An Anthology of Theory & Criticism*. Edited by Magda Romanska and Alan Ackerman. Methuen Drama, 2016. ISBN: 9781474247887. \[Preview with [Google Books](https://books.google.com/books?id=ySoCDQAAQBAJ&pg=PA35=onepage#v=onepage&q&f=false)\]
 
-Bakhtin, Mikhail. “Rabelais in the History of Laughter.” Chapter 1 in *Rabalais and His World*. Translated by Helene Iswolsky. Indiana University Press, 2009, pp. 66–82. ISBN: 9780253203410. \[Preview with {{% resource_link "5eda76cf-f18f-4e5f-b66b-41672ccd6198" "Google Books" %}}\]
+Bakhtin, Mikhail. “Rabelais in the History of Laughter.” Chapter 1 in *Rabalais and His World*. Translated by Helene Iswolsky. Indiana University Press, 2009, pp. 66–82. ISBN: 9780253203410. \[Preview with [Google Books](https://books.google.com/books?id=SkswFyhqRIMC&pg=PA66=onepage#v=onepage&q&f=false)\]
 
 *Optional reading*
 
-Crick, Olly. “{{% resource_link "9c46e21f-6996-4f52-bba9-841e7d422950" "The Stations of the Fool" %}}.” *Comedy Studies* 8, no. 2 (2017): 167–81.
+Crick, Olly. “[The Stations of the Fool](https://www.tandfonline.com/doi/abs/10.1080/2040610X.2017.1343273).” *Comedy Studies* 8, no. 2 (2017): 167–81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -44,13 +44,13 @@ Laughing Now…
 
 *Readings*
 
-Bergson, Henri. “The Comic in General - The Comic Elements in Forms and Movements - Expansive Force of the Comic.” Chapter 1 in *Laughter: an Essay on the Meaning of the Comic*. Floating Press, 2008. ISBN: 9781877527241. \[Preview with {{% resource_link "2a5b989d-0c78-4208-8ef1-2bcdb560dd05" "Google Books" %}}\]
+Bergson, Henri. “The Comic in General - The Comic Elements in Forms and Movements - Expansive Force of the Comic.” Chapter 1 in *Laughter: an Essay on the Meaning of the Comic*. Floating Press, 2008. ISBN: 9781877527241. \[Preview with [Google Books](https://books.google.com/books?id=sN0KJAkxTi0C&pg=PA7&source=gbs_toc_r&cad=4#v=onepage&q&f=false)\]
 
-Critchley, Simon. “Introduction.” Chapter 1 in *On Humour*. Routledge, 2002. ISBN: 9780415251211. \[Preview with {{% resource_link "e0222d24-9bb3-489b-a2ab-4d12abaa686c" "Google Books" %}}\]
+Critchley, Simon. “Introduction.” Chapter 1 in *On Humour*. Routledge, 2002. ISBN: 9780415251211. \[Preview with [Google Books](https://books.google.com/books?id=otGMAgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 ———. “Is Humour Human?” Chapter 2 in *On Humour*. Routledge, 2002. ISBN: 9780415251211. 
 
-Koester, Megan. “{{% resource_link "ef709a09-2006-44a1-861c-14da47bbc45b" "Why It Sucks to Be a Woman in Comedy" %}}.” Vice, December 3, 2015. 
+Koester, Megan. “[Why It Sucks to Be a Woman in Comedy](https://www.vice.com/en_us/article/yvx49x/why-it-sucks-to-be-a-woman-in-comedy-1202).” Vice, December 3, 2015. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -62,11 +62,11 @@ Doing Comedy…
 
 Helizer, Mel, with Marc Shatz. “The Recipe for Humor.” Chapter 3 in *Comedy Writing Secrets: The Best-Selling Book on How to Think Funny, Write Funny, Act Funny, and Get Paid For It.* 2nd edition. Writer's Digest Books, 2005. ISBN: 9781582973579. 
 
-Herring, Richard, and Jo Caulfield. “{{% resource_link "74d72f90-3f5f-43c8-ad74-06746519ea36" "The Comedian’s Toolbox" %}},” *The Guardian*, September 20, 2008.
+Herring, Richard, and Jo Caulfield. “[The Comedian’s Toolbox](https://www.theguardian.com/books/2008/sep/22/comedy4),” *The Guardian*, September 20, 2008.
 
 *Audio*
 
-“{{% resource_link "6e1eb62c-383e-413d-a7b1-0a9ae00f12da" "The New Yorker Radio Hour: Jerry Seinfeld, Tracee Ellis Ross, and Jon Hamm with David Remnick" %}}.” *The New Yorker*, January 5, 2018. (Listen to “Jerry Seinfeld Gets Technical”.)
+“[The New Yorker Radio Hour: Jerry Seinfeld, Tracee Ellis Ross, and Jon Hamm with David Remnick](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/jerry-seinfeld-tracee-ellis-ross-and-jon-hamm).” *The New Yorker*, January 5, 2018. (Listen to “Jerry Seinfeld Gets Technical”.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit II: The Elements of Comedy**
@@ -84,9 +84,9 @@ Dikkers, Scott. “The 11 Funny Filters.” Chapter 6 in *How to Write Funny: Yo
 
 *Video*
 
-“{{% resource_link "ef24aab4-c65e-40a2-86d5-909e7f5fc362" "Jerry Seinfeld Interview: How to Write a Joke | The New York Times" %}}.” YouTube.
+“[Jerry Seinfeld Interview: How to Write a Joke | The New York Times](https://www.youtube.com/watch?v=itWxXyCfW5s).” YouTube.
 
-{{% resource_link "3456f3cc-b45a-4dd8-b2d1-943198333430" "*Neal Brennan: 3 Mics*" %}}. Directed by Neal Brennan. Color, 65 min. 2017.
+[*Neal Brennan: 3 Mics*](https://www.imdb.com/title/tt6438918/?ref_=nv_sr_2). Directed by Neal Brennan. Color, 65 min. 2017.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -96,27 +96,27 @@ Writing Funny
 
 *Readings*
 
-“{{% resource_link "dbfb33b3-043b-4d66-8cf1-bb183949c943" "The Royal Academy of Farting: Benjamin Franklin to the Royal Academy of Brussels, 1781" %}}.” TeachingAmericanHistory.org.
+“[The Royal Academy of Farting: Benjamin Franklin to the Royal Academy of Brussels, 1781](http://teachingamericanhistory.org/library/document/to-the-royal-academy-of-farting/).” TeachingAmericanHistory.org.
 
-Twain, Mark. “{{% resource_link "599359c0-5ce3-48a4-9dd2-43d2890be056" "How to Tell a Story" %}}.” October 1895. Mark Twain in His Times Homepage, University of Virginia.
+Twain, Mark. “[How to Tell a Story](http://twain.lib.virginia.edu/onstage/how2tell.html).” October 1895. Mark Twain in His Times Homepage, University of Virginia.
 
-Bechdel, Alison. {{% resource_link "e25cfe12-d98b-4263-920a-f9dc64af8b0e" "“Dykes to Watch Out For” Strip Archive" %}}.
+Bechdel, Alison. [“Dykes to Watch Out For” Strip Archive](http://dykestowatchoutfor.com/strip-archive-by-number).
 
-Preston, Brooke, Caitlin Kunkel, Carrie Wittmer, et al. “{{% resource_link "170a5c0f-24da-4670-85d0-7fbe2840aa52" "New Erotica for Feminists" %}}.” McSweeney's Internet Tendency, February 6, 2018.
+Preston, Brooke, Caitlin Kunkel, Carrie Wittmer, et al. “[New Erotica for Feminists](https://www.mcsweeneys.net/articles/new-erotica-for-feminists).” McSweeney's Internet Tendency, February 6, 2018.
 
-Goldstein, Jessica M. “{{% resource_link "d1ec16f0-7867-47d6-83a0-046ec906fbce" "Hi, It's Us, All the Fourteen-Year-Old Girls in America" %}}.” McSweeney's Internet Tendency, December 5, 2017. 
+Goldstein, Jessica M. “[Hi, It's Us, All the Fourteen-Year-Old Girls in America](https://www.mcsweeneys.net/articles/hi-its-us-all-the-fourteen-year-old-girls-in-america).” McSweeney's Internet Tendency, December 5, 2017. 
 
-Huber, Lucy. “{{% resource_link "dbbb8893-3d8e-465e-8ea6-9ab2e848581b" "Please Forgive Us at Blue Apron for This Week's Meals. We've Been Having a Tough Time Lately" %}}.” McSweeney's Internet Tendency, July 31, 2017. 
+Huber, Lucy. “[Please Forgive Us at Blue Apron for This Week's Meals. We've Been Having a Tough Time Lately](https://www.mcsweeneys.net/articles/please-forgive-us-at-blue-apron-for-this-weeks-meals-weve-been-having-a-tough-time-lately).” McSweeney's Internet Tendency, July 31, 2017. 
 
-Hare, Michael, and Nell Stevens. “{{% resource_link "8dad02c0-2ae3-4c05-83f5-e781e1a4e822" "Nevertheless, He Persisted: Tales of Masculine Perseverance" %}}.” McSweeney's Internet Tendency, April 24, 2017. 
+Hare, Michael, and Nell Stevens. “[Nevertheless, He Persisted: Tales of Masculine Perseverance](https://www.mcsweeneys.net/articles/nevertheless-he-persisted-tales-of-masculine-perseverance).” McSweeney's Internet Tendency, April 24, 2017. 
 
-Mencken, H.L. “{{% resource_link "4bb96a93-c4c6-49cc-b721-0d812529b299" "On Being an American (1922)" %}}.” Mondaock Valley Press.
+Mencken, H.L. “[On Being an American (1922)](http://monadnock.net/mencken/american.html).” Mondaock Valley Press.
 
-Nordquist, Richard. “{{% resource_link "b8ab4a85-5c94-4fc1-b89d-170b95130b57" "H.L. Mencken and 'The Libido for the Ugly'" %}}.” September 27, 2017. ThoughtCo.
+Nordquist, Richard. “[H.L. Mencken and 'The Libido for the Ugly'](https://www.thoughtco.com/libido-for-the-ugly-by-mencken-1690254).” September 27, 2017. ThoughtCo.
 
-Ephron, Nora. “{{% resource_link "2f5fac99-41c0-448a-bd2f-b067a1fcfe1e" "A Few Words About Breasts" %}}.” Genius.
+Ephron, Nora. “[A Few Words About Breasts](https://genius.com/Nora-ephron-a-few-words-about-breasts-annotated).” Genius.
 
-Allen, Woody.  “{{% resource_link "26ef1238-f10f-4f96-adaf-982b81f2e5e3" "The Whore of Mensa" %}}.” *The New Yorker*, December 16, 1974.
+Allen, Woody.  “[The Whore of Mensa](https://www.newyorker.com/magazine/1974/12/16/the-whore-of-mensa).” *The New Yorker*, December 16, 1974.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -126,7 +126,7 @@ Pantomime and Physical Comedy
 
 *Readings*
 
-Dale, Alan. “Comedy is a Man in Trouble.” Chapter 1 in *Comedy is a Man in Trouble: Slapstick In American Movies.* University of Minnesota Press, 2002. ISBN: 9780816636587. \[Preview with {{% resource_link "a2456321-d77c-4db5-8a74-0df584870409" "Google Books" %}}\]
+Dale, Alan. “Comedy is a Man in Trouble.” Chapter 1 in *Comedy is a Man in Trouble: Slapstick In American Movies.* University of Minnesota Press, 2002. ISBN: 9780816636587. \[Preview with [Google Books](https://books.google.com/books?id=zHX_sDiAfcMC&pg=PA1=onepage#v=onepage&q&f=false)\]
 
 ———. “Chaplin as Proteus, Low-Down and High Up.” Chapter 2 in *Comedy is a Man in Trouble: Slapstick In American Movies*. University of Minnesota Press, 2002. ISBN: 9780816636587. 
 
@@ -140,9 +140,9 @@ Anarchistic Comedy, Dada and Other Nonsense
 
 *Readings*
 
-Forbes, Adam. “{{% resource_link "4d74c8be-ded0-42b2-a8a1-b33de7974f30" "Nihilistic Light Entertainment and Metamorphic Linkages: Dada and Contemporary Comedy" %}}.” *Comedy Studies* 8, no. 2 (2017): 197–216.
+Forbes, Adam. “[Nihilistic Light Entertainment and Metamorphic Linkages: Dada and Contemporary Comedy](https://www.tandfonline.com/doi/abs/10.1080/2040610X.2017.1343969).” *Comedy Studies* 8, no. 2 (2017): 197–216.
 
-D’Harcourt, Ashlynn. “{{% resource_link "ce401b63-359c-4551-8de4-35cc442edd63" "Fire in Her Belly: Gendered Standards of Comedic Discourse" %}}.” *Flow*, July 7, 2017.
+D’Harcourt, Ashlynn. “[Fire in Her Belly: Gendered Standards of Comedic Discourse](https://www.flowjournal.org/2017/07/fire-in-her-belly/).” *Flow*, July 7, 2017.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -152,23 +152,23 @@ Stand Up Comedy
 
 *Readings*
 
-Limon. John. “Inrage: A Lenny Bruce Joke and the Topography of Stand-Up.” Chapter 1 in *Stand-up Comedy in Theory, or, Abjection*. Duke University Press Books, 2000. ISBN: 9780822325468. \[Preview with {{% resource_link "74f69b76-c7ad-4f45-89d3-ffc06b816e42" "Google Books" %}}\]
+Limon. John. “Inrage: A Lenny Bruce Joke and the Topography of Stand-Up.” Chapter 1 in *Stand-up Comedy in Theory, or, Abjection*. Duke University Press Books, 2000. ISBN: 9780822325468. \[Preview with [Google Books](https://books.google.com/books?id=HXNV0AfxDrMC&pg=PA11=onepage#v=onepage&q&f=false)\]
 
 ———. “Scatology: Richard Pryor in Concert.” Chapter 5 in *Stand-up Comedy in Theory, or, Abjection*. Duke University Press Books, 2000. ISBN: 9780822325468.
 
-Double, Oliver. “{{% resource_link "a81442f2-7d44-41b3-9177-3692a98caf64" "[T]his is Eating your Greens, This is Doing your Homework: Writing and Rehearsing a Full-length Stand-up Show" %}}.” *Comedy Studies* 8, no. 22 (2017) 137–53. (Skip the introduction, read pp. 140–51.)
+Double, Oliver. “[\`\[T\]his is Eating your Greens, This is Doing your Homework´: Writing and Rehearsing a Full-length Stand-up Show](https://www.tandfonline.com/doi/abs/10.1080/2040610X.2017.1344477).” *Comedy Studies* 8, no. 22 (2017) 137–53. (Skip the introduction, read pp. 140–51.)
 
 *Video*
 
-{{% resource_link "2cabbc3d-0842-4933-9865-35026b346a26" "*Richard Pryor: Live in Concert*" %}}. Directed by Jeff Margolis. Color, 78 min. 1979.
+[*Richard Pryor: Live in Concert*](https://www.imdb.com/title/tt0079807/?ref_=nv_sr_3). Directed by Jeff Margolis. Color, 78 min. 1979.
 
-{{% resource_link "1dc01b52-6cb3-4c54-bf8c-d900be270b81" "*Richard Pryor: Live on the Sunset Strip*" %}}. Directed by Joe Layton. Color, 82 min. 1982.
+[*Richard Pryor: Live on the Sunset Strip*](https://www.imdb.com/title/tt0084597/?ref_=nm_flmg_slf_41). Directed by Joe Layton. Color, 82 min. 1982.
 
-{{% resource_link "0e889831-5562-4cbc-95b2-03d6f1bd5369" "*Maria Bamford: The Special, Special, Special!*" %}} Directed by Jordan Brady. Color, 49 min. 2014.
+[*Maria Bamford: The Special, Special, Special!*](https://www.imdb.com/title/tt2546038/?ref_=nv_sr_3) Directed by Jordan Brady. Color, 49 min. 2014.
 
-{{% resource_link "8ffe8fba-c6dc-492a-a0e9-e8643da40365" "*Aziz Ansari Live in Madison Square Garden*" %}}. Color, 58 min. 2015.
+[*Aziz Ansari Live in Madison Square Garden*](https://www.imdb.com/title/tt4530184/?ref_=nv_sr_2). Color, 58 min. 2015.
 
-“{{% resource_link "8f9928b9-7e78-4c65-82b9-b29fa91f52a3" "Dave Chappelle Stand-Up Monologue - SNL" %}}.” YouTube.
+“[Dave Chappelle Stand-Up Monologue - SNL](https://www.youtube.com/watch?v=--IS0XiNdpk).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -176,7 +176,7 @@ Double, Oliver. “{{% resource_link "a81442f2-7d44-41b3-9177-3692a98caf64" "[T]
 
 Concrete Comedy
 
-*Guest lecturer:* {{% resource_link "3a9eddc5-85bb-44fb-ae2e-0dac234c2de1" "*Michael Portnoy*" %}}
+*Guest lecturer:* [*Michael Portnoy*](http://www.strangergames.com/cvbio.html)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -196,9 +196,9 @@ Concrete Comedy
 
 *Video*
 
-“{{% resource_link "5d9d21d2-4e7b-464c-86f0-90d4e115af53" "Introducing Wrixling…" %}}” Wrixling.
+“[Introducing Wrixling…](https://www.wrixling.com/)” Wrixling.
 
-“{{% resource_link "ed14ecb6-34d4-43d8-aca6-0ca5671a5e49" "Trailer: 100 Beautiful Jokes, 2014, Stedelijk Museum" %}}.” Stranger Games.
+“[Trailer: 100 Beautiful Jokes, 2014, Stedelijk Museum](http://www.strangergames.com/100-beautiful-jokes.html).” Stranger Games.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -212,21 +212,21 @@ Concrete Comedy
 
 *Audio*
 
-“{{% resource_link "76fa2df9-bd7f-4c2e-b745-b0b73a87bee4" "Jerry Lawler Shoots on the Andy Kaufman Feud" %}}.” YouTube.
+“[Jerry Lawler Shoots on the Andy Kaufman Feud](https://www.youtube.com/watch?v=KxfrAV_NS_g).” YouTube.
 
 *Video*
 
-“{{% resource_link "0c1c89e8-e618-46ac-86ec-ab364153b082" "Andy Kaufman - SNL" %}}.” YouTube.
+“[Andy Kaufman - SNL](https://www.youtube.com/watch?v=Yxp23Gkvn9g).” YouTube.
 
-“{{% resource_link "c33abe87-f0d1-4805-9757-47996d7170c0" "Andy Kaufman on Letterman (October 15th 1980)" %}}.” YouTube.
+“[Andy Kaufman on Letterman (October 15th 1980)](https://www.youtube.com/watch?v=6p0sr2BejUk).” YouTube.
 
-“{{% resource_link "b5597f7e-c447-48a9-a6ce-94797724660f" "\*uncensored\* Andy Kaufman and Jerry Lawler on Letterman Full (1982)" %}}.” YouTube.
+“[\*uncensored\* Andy Kaufman and Jerry Lawler on Letterman Full (1982)](https://www.youtube.com/watch?v=zxPtNUKptag).” YouTube.
 
 *Optional video*
 
-{{% resource_link "1660b6d9-2f26-4549-8115-41edbb4f7ebb" "*Man on the Moon*" %}}*.* Directed by Milos Forman. Color, 118 min. 1999.
+[*Man on the Moon*](https://www.imdb.com/title/tt0125664/?ref_=nv_sr_6)*.* Directed by Milos Forman. Color, 118 min. 1999.
 
-{{% resource_link "ab274362-73d3-42ab-8805-483ac71e0352" "*Jim & Andy: The Great Beyond*" %}}. Directed by Chris Smith. Color, 94 min. 2017.
+[*Jim & Andy: The Great Beyond*](https://www.imdb.com/title/tt7214762/?ref_=nv_sr_1). Directed by Chris Smith. Color, 94 min. 2017.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -236,13 +236,13 @@ Interventionists Comedy
 
 *Readings*
 
-{{% resource_link "6ee7b0e5-a86a-4205-8e44-84a00163b556" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fraser, Andrea. “Museum Highlights: A Gallery Talk.” and “Official Welcome.” Chapter 9 in *Museum Highlights: The Writings of Andrea Fraser.* Edited by Alexander Alberro. MIT Press, 2007. ISBN: 9780262562300. 
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262562300) Fraser, Andrea. “Museum Highlights: A Gallery Talk.” and “Official Welcome.” Chapter 9 in *Museum Highlights: The Writings of Andrea Fraser.* Edited by Alexander Alberro. MIT Press, 2007. ISBN: 9780262562300. 
 
-{{% resource_link "6ee7b0e5-a86a-4205-8e44-84a00163b556" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. “Official Welcome.” Chapter 18 in *Museum Highlights: The Writings of Andrea Fraser*. Edited by Alexander Alberro. MIT Press, 2007. ISBN: 9780262562300. 
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262562300) ———. “Official Welcome.” Chapter 18 in *Museum Highlights: The Writings of Andrea Fraser*. Edited by Alexander Alberro. MIT Press, 2007. ISBN: 9780262562300. 
 
 *Video*
 
-“{{% resource_link "dd04290e-6eb3-4343-8b40-21b0aaf5fbdf" "Send in the Clowns: Humour as a Weapon" %}}.” Vimeo.
+“[Send in the Clowns: Humour as a Weapon](https://vimeo.com/ondemand/21529/107052508).” Vimeo.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -252,13 +252,13 @@ Counterfactual Comedy
 
 *Reading*
 
-Waisanen, Don. “{{% resource_link "6178f8b7-d967-49bf-a5e7-e4197a273012" "The Comic Counterfactual: Laughter, Affect, and Civic Alternatives" %}}.” *Quarterly Journal of Speech* 104, no. 1 (2017): 71–93.
+Waisanen, Don. “[The Comic Counterfactual: Laughter, Affect, and Civic Alternatives](https://www.tandfonline.com/doi/abs/10.1080/00335630.2017.1401224).” *Quarterly Journal of Speech* 104, no. 1 (2017): 71–93.
 
 *Video*
 
-“{{% resource_link "07971230-e157-45b2-bfc8-161d17177446" "Bunker Talk: Preet Bharara | April 25, 2018 Act 3 | Full Frontal on TBS" %}}.” YouTube.
+“[Bunker Talk: Preet Bharara | April 25, 2018 Act 3 | Full Frontal on TBS](https://www.youtube.com/watch?v=QEwfqLOZrJw).” YouTube.
 
-“{{% resource_link "32d9be85-b7b5-47a7-b4c3-ab4700bc182c" "Net Neutrality II: Last Week Tonight with John Oliver (HBO)" %}}.” YouTube.
+“[Net Neutrality II: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=92vuuZt7wak).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12 (optional)
@@ -272,11 +272,11 @@ Mockumentary
 
 *Video*
 
-{{% resource_link "c56245b3-9bfb-448b-8084-6a6c53dab75a" "*This is Spinal Tap*" %}}. Directed by Rob Reiner. Color, 82 min. 1984.
+[*This is Spinal Tap*](https://www.imdb.com/title/tt0088258/?ref_=nv_sr_1). Directed by Rob Reiner. Color, 82 min. 1984.
 
-{{% resource_link "3be08b15-ca1a-42a1-aab4-907cf067f651" "*Waiting for Guffman*" %}}. Directed by Christopher Guest. Color, 84 mins. 1996.
+[*Waiting for Guffman*](https://www.imdb.com/title/tt0118111/?ref_=nv_sr_1). Directed by Christopher Guest. Color, 84 mins. 1996.
 
-{{% resource_link "d183a2b7-c5f7-467b-af3e-dc41c64d60ec" "*Documentary Now! Season 1, Ep. 4: The Eye Doesn't Lie*" %}}. Directed by Alexander Buono and Rhys Thomas. Color, 22 mins. 2015.
+[*Documentary Now! Season 1, Ep. 4: The Eye Doesn't Lie*](https://www.imdb.com/title/tt4686380/?ref_=ttep_ep4). Directed by Alexander Buono and Rhys Thomas. Color, 22 mins. 2015.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -288,15 +288,15 @@ The Podcast
 
 Listen to one of the following: 
 
-“{{% resource_link "f8884328-3546-4e06-9902-173a58c7ac16" "2 Dope Queens" %}}.” New York Public Radio.
+“[2 Dope Queens](https://www.wnycstudios.org/shows/dopequeens).” New York Public Radio.
 
-“{{% resource_link "53b4feca-be1c-40ff-ae7c-03ff58e18952" "Anna Faris is Unqualified" %}}.” Soundcloud.
+“[Anna Faris is Unqualified](https://soundcloud.com/annfarisisunqualified).” Soundcloud.
 
-“{{% resource_link "a0123ce1-8131-4ba6-9db8-c57fb52c2faf" "WTF with Marc Maron" %}}.”
+“[WTF with Marc Maron](http://www.wtfpod.com/).”
 
-“{{% resource_link "60cd0772-17ed-478b-8e52-6fed5ec1ed6c" "With Special Guest Lauren Lapkus" %}}.” Soundcloud.
+“[With Special Guest Lauren Lapkus](https://soundcloud.com/with-special-guest-lauren-lapkus).” Soundcloud.
 
-“{{% resource_link "93bcefb9-3983-44ac-b34e-24cab1ab45c3" "SAM TRIPOLI - WTF Podcast with Marc Maron #908" %}}.” YouTube.
+“[SAM TRIPOLI - WTF Podcast with Marc Maron #908](https://www.youtube.com/watch?v=2qe1ypRZdgM).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
