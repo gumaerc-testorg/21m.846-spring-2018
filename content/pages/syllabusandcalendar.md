@@ -180,27 +180,27 @@ Pantomime and Physical Comedy
 
 _Screening_
 
-“{{% resource_link "e4bfd832-5918-4632-97b7-5c8a1be8eaf3" "Charlie Chaplin - A Night In The Show (1915)" %}}.” YouTube. 
+“[Charlie Chaplin - A Night In The Show (1915)](https://www.youtube.com/watch?v=Qnp1RM6ixq8).” YouTube. 
 
-“{{% resource_link "d22d8be0-8bdf-48d7-935e-f0800acf8acb" "Charlie Chaplin The Pawn Shop (1916)" %}}.” YouTube.
+“[Charlie Chaplin The Pawn Shop (1916)](https://www.youtube.com/watch?v=AKkkHAgbojc).” YouTube.
 
-“{{% resource_link "f17e3749-5097-4045-a13a-4e92ccccb194" "Charlie Chaplin Easy Street (1917)" %}}.” YouTube.
+“[Charlie Chaplin Easy Street (1917)](https://www.youtube.com/watch?v=Nf5rCu34IWk).” YouTube.
 
-“{{% resource_link "e44c0d1f-639a-4d46-b9a1-20208ba74811" "Buster Keaton The Playhouse (1921)" %}}.” YouTube.
+“[Buster Keaton The Playhouse (1921)](https://www.youtube.com/watch?v=JmyD6azri4s).” YouTube.
 
-“{{% resource_link "4e0a82d7-fa0f-429d-bda6-bed0fecfadbc" "Jerry Lewis - The Errand Boy (1961) Pantomime" %}}.” YouTube.
+“[Jerry Lewis - The Errand Boy (1961) Pantomime](https://www.youtube.com/watch?v=-y613d0BYG4).” YouTube.
 
-“{{% resource_link "6069d1d0-9bdb-47c6-aa74-e88ccd821702" "Liza Minnelli Tries to Turn Off a Lamp - SNL" %}}.” YouTube.
+“[Liza Minnelli Tries to Turn Off a Lamp - SNL](https://www.youtube.com/watch?v=nVvxOwxuk_w).” YouTube.
 
-“{{% resource_link "393872ec-3d01-45ec-927a-43d6e0c44300" "Julie Atlas Muz / King Tut's Wah Wah Hut Live @ Whitney Museum 2015" %}}.” YouTube.
+“[Julie Atlas Muz / King Tut's Wah Wah Hut Live @ Whitney Museum 2015](https://www.youtube.com/watch?v=o6vu05hU8lc).” YouTube.
 
-“{{% resource_link "d876b168-c6c8-42d6-9274-b65debea84a2" "Matt Foley: Van Down By The River - SNL" %}}.” YouTube.
+“[Matt Foley: Van Down By The River - SNL](https://www.youtube.com/watch?v=Xv2VIEY9-A8).” YouTube.
 
-“{{% resource_link "6d095b9f-03db-4d3a-8f8e-9ce6509560c4" "Zach Galifianakis on physical comedy" %}}.” YouTube.
+“[Zach Galifianakis on physical comedy](https://www.youtube.com/watch?v=YLdO9lMT7yA).” YouTube.
 
-“{{% resource_link "4ae9c8e1-9d64-481b-82a5-15200337c3da" "The Big Baby Makes the Sale - SNL" %}}.” YouTube.
+“[The Big Baby Makes the Sale - SNL](https://www.youtube.com/watch?v=1ultlBTJteA&index=42&list=PLS_gQd8UB-hJp8yCo_Pft8bHUXmvB_D9E).” YouTube.
 
-“{{% resource_link "1bb5ed86-106a-46bd-8403-39e91b25d32e" "Spartan Cheerleaders at a Chess Tournament - SNL" %}}.” YouTube.
+“[Spartan Cheerleaders at a Chess Tournament - SNL](https://www.youtube.com/watch?v=WifF0kZ0zp4).” YouTube.
 
 
 {{< tdclose >}}
@@ -217,17 +217,17 @@ Anarchistic Comedy, Dada and Other Nonsense
 
 _Screening_
 
-_{{% resource_link "c47c8925-7351-4aa0-a14c-33b0cc3a43e5" "Monkey Business" %}}_. Directed by Norman Z. McLeod. Black and White, 77 min. 1931.
+_[Monkey Business](https://www.imdb.com/title/tt0022158/?ref_=nv_sr_2)_. Directed by Norman Z. McLeod. Black and White, 77 min. 1931.
 
-“{{% resource_link "cf5043f9-7b8e-492d-be53-e63e418f27e1" "Monty Python's flying circus - Interview and salesman" %}}.” YouTube.
+“[Monty Python's flying circus - Interview and salesman](https://www.youtube.com/watch?v=rbEIX1giTho).” YouTube.
 
-“{{% resource_link "795113c8-ebfa-448d-8fb2-23d890b88a15" "Confuse-A-Cat ~ Monty Python's Flying Circus" %}}.” YouTube.
+“[Confuse-A-Cat ~ Monty Python's Flying Circus](https://www.youtube.com/watch?v=yzi3k7K0lFA&t=4s).” YouTube.
 
-“{{% resource_link "09c0c9e0-cdb8-491c-95d2-2afc52dd376a" "Monty Python - How Not to Be Seen (Original version)" %}}.” YouTube.
+“[Monty Python - How Not to Be Seen (Original version)](https://www.youtube.com/watch?v=ifmRgQX82O4).” YouTube.
 
-“{{% resource_link "cc4b7edc-29e2-4c3e-a8c3-1580d440d42f" "Reggie Watts disorients you in the most entertaining way" %}}.” YouTube.
+“[Reggie Watts disorients you in the most entertaining way](https://www.youtube.com/watch?v=BdHK_r9RXTc).” YouTube.
 
-“{{% resource_link "0a7dd9a5-d8be-4d43-b59e-806e350a802d" "Reggie Watts: Fuck Shit Stack" %}}.” YouTube.
+“[Reggie Watts: Fuck Shit Stack](https://www.youtube.com/watch?v=CJQU22Ttpwc).” YouTube.
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ Stand Up Comedy
 
 Concrete Comedy
 
-_Guest lecturer: {{% resource_link "3a9eddc5-85bb-44fb-ae2e-0dac234c2de1" "Michael Portnoy" %}}_
+_Guest lecturer: [Michael Portnoy](http://www.strangergames.com/cvbio.html)_
 
 
 {{< tdclose >}}
